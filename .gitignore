@@ -1,0 +1,30 @@
+# LaTeX Build Files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lot
+*.lof
+*.nav
+*.snm
+*.vrb
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.xdv
+*.dvi
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Output PDF (Optional: remove this line if you WANT to include the PDF demo)
+*.pdf
