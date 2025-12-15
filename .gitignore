@@ -25,6 +25,3 @@
 # OS generated files
 .DS_Store
 Thumbs.db
-
-# Output PDF (Optional: remove this line if you WANT to include the PDF demo)
-*.pdf
