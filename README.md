@@ -80,6 +80,12 @@
       - [华中农业大学视觉形象识别系统](https://www.hzau.edu.cn/info/1172/12644.htm)
 4. **AI 工具**：`gemini-3-pro-preview` 在魔改模板中帮助了很多，包括撰写本 README 文件。
 
+## ⚠️ 免责与版权声明 (Disclaimer)
+
+1. 本项目仅供华中农业大学师生学术交流与学习使用。
+2. 模版中使用的校徽、标准字等视觉素材，其版权归 **华中农业大学** 所有。
+3. 若本项目中的任何内容无意中侵犯了您的合法权益，请联系作者删除：`ZimingADR@webmail.hzau.edu.cn`
+
 ## 📄 许可证
 
 本模版沿用原始 Verona 主题的 LPPL (LaTeX Project Public License) 许可证。
